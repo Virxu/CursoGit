@@ -1,1 +1,3 @@
 background color
+color negrita
+color de fuente rojo
